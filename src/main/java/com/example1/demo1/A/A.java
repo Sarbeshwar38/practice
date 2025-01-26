@@ -7,5 +7,6 @@ public class A {
         System.out.println(10);
         A a1 = new A ();
         System.out.println(a1.x);
+        System.out.println(a1.y);
     }
 }
