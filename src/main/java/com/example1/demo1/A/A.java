@@ -8,5 +8,6 @@ public class A {
         A a1 = new A ();
         System.out.println(a1.x);
         System.out.println(a1.y);
+        System.out.println(19);
     }
 }
